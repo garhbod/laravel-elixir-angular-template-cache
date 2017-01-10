@@ -7,7 +7,7 @@ It is an updated version of the Elixir v3-v5 plugin found here https://github.co
 ----
 
 ```sh
-$ npm install elixir-angular-template-cache-2
+$ npm install elixir-angular-template-cache-2 --save-dev
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ Require the extension and call it using mix.angulartemplatecache().
 
 ```javascript
 var elixir = require('laravel-elixir');
-require('elixir-angular-template-cache');
+require('elixir-angular-template-cache-2');
 
 elixir(function(mix)
 {
