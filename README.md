@@ -1,12 +1,13 @@
-# elixir-angular-template-cache
+# elixir-angular-template-cache-2
 
-Original project by Logan Henson, see https://github.com/loganhenson/laravel-elixir-angular-templatecache
+This plugin is for Laravel Elixir v6 and up.
+It is an updated version of the Elixir v3-v5 plugin found here https://github.com/larkinwhitaker/laravel-elixir-angular-template-cache
 
 ## Installation
 ----
 
 ```sh
-$ npm install elixir-angular-template-cache
+$ npm install elixir-angular-template-cache-2
 ```
 
 ## Usage
