@@ -2,6 +2,7 @@
 
 const gulpInsert    = require('gulp-insert');
 const templateCache = require('gulp-angular-templatecache');
+const insert 		= require('gulp-insert');
 
 class AngularTemplatecacheTask extends Elixir.Task {
 

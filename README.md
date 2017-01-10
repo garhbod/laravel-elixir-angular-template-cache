@@ -25,7 +25,7 @@ elixir(function(mix)
    		{module: 'app', root: 'templates'}, 	//	template cache options
    		'public/app/views/cached/**', 			//	source 
    		'public/app/js', 						//	destination
-   		'templates'								//	wrap
+   		false								    //	wrap
 	);	
 });
 ```

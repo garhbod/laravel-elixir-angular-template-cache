@@ -1,6 +1,6 @@
 {
   "name": "elixir-angular-template-cache-2",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Laravel Elixir 6 task extension for angular-templatecache",
   "main": "index.js",
   "author": {
